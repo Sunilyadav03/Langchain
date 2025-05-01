@@ -12,7 +12,6 @@
 - 📦 Repository Structure
 - 🤝 Contribution
 - 📜 License
-- 🌍 Community & Support
   
 ---
 
