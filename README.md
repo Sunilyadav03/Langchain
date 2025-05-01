@@ -183,11 +183,4 @@ I’d love your contributions!. Whether it’s bug fixes, new features, or docs,
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-
-### 🌍 Join the LangChain Revolution!
-
-Let’s build the future of AI together! Star ⭐ this repo, fork it 🍴, and share it with your network. Have questions? Open an issue or reach out on Discord. Let’s make LangChain accessible to everyone! 🌟
-
- 
 
